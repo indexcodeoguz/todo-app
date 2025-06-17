@@ -88,7 +88,7 @@ const Todo = () => {
 
       <button
         onClick={clearAll}
-        className=" w-full mt-auto bg-purple-600 text-white font-medium py-3 rounded-md hover:bg-purple-700 transition-all"
+        className=" w-full mt-auto bg-green-600 text-white font-medium py-3 rounded-md hover:bg-green-700 transition-all"
       >
         Clear All{" "}
       </button>
